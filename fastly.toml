@@ -3,6 +3,7 @@ name = "Geo-IP API at the edge"
 description = ""
 authors = ["<oss@fastly.com>"]
 language = "javascript"
+service_id = "7Nll7jrcajf5DqgDEtw6GG"
 
 [local_server.backends.origin_0]
   url = "https://httpbin.org"
