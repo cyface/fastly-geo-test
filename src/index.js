@@ -14,6 +14,9 @@ function handler(event) {
       country_name: clientGeo.country_name,
       gmt_offset: clientGeo.gmt_offset,
     },
+    person: {
+      name: "Tim White"
+    }
   })
 
   return new Response(respBody, {
