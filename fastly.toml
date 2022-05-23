@@ -1,7 +1,7 @@
 manifest_version = 2
 name = "Geo-IP API at the edge"
 description = ""
-authors = ["<oss@fastly.com>"]
+authors = ["<tim@cyface.com>"]
 language = "javascript"
 service_id = "7Nll7jrcajf5DqgDEtw6GG"
 
